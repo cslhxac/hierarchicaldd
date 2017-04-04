@@ -78,7 +78,7 @@ Once built, the binaries can be found at the following paths:
 
 - tools/opengl\_3d - Visualization tool for 2D convergence result.
 - demos/SPGrid\_Create\_Simple_Domain - A project for creating an simple analytic domain with a sphere in the middle and initialize the right hand side with a Kronecker delta function.
-- demos/Domain\_Decomposition\_CPU_Only - The CPU implementation of the domain decomposition algorithm proposed by Lui et al\cite{}.
+- demos/Domain\_Decomposition\_CPU_Only - The CPU implementation of the domain decomposition algorithm proposed by Liu et al\cite{liu:2016:dd}.
 - demos/Domain\_Decomposition\_CPU\_Only\_Two\_Levels - The CPU implementation of the two level domain decomposition algorithm.
 - demos/Domain\_Decomposition\_KNL - The KNL implementation of the domain decomposition algorithm.
 - demos/Domain\_Decomposition\_CUDA\_Matrix\_Free - The GPU(CUDA) implementation of the domain decomposition algorithm.
